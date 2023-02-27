@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80681955172",
+    "project_id": "jarnama-app-43f9f",
+    "storage_bucket": "jarnama-app-43f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80681955172:android:146ed3d3527b769842d471",
+        "android_client_info": {
+          "package_name": "com.example.jarnama_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80681955172-2qot7bllh92cqa833qedi97eeuvj3vpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzYQeSIIeh626ihsnnMqKHkbxCGGB6bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80681955172-2qot7bllh92cqa833qedi97eeuvj3vpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
