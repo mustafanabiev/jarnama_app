@@ -17,7 +17,7 @@ class AppProductPage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('AppProductPage'),
+        title: const Text('AppProducttPage'),
       ),
       body: ListView(
         padding: const EdgeInsets.all(20),
