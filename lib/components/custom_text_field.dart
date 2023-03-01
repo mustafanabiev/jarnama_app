@@ -23,6 +23,7 @@ class CustomTextField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextFormField(
+      controller: controller,
       onTap: onTap,
       maxLines: maxLines,
       focusNode: focusNode,
@@ -30,6 +31,7 @@ class CustomTextField extends StatelessWidget {
         prefixIcon: prefixIcon,
         suffixIcon: suffixIcon,
         label: Text(hintText ?? ''),
+        hintText: hintText,
         border: const OutlineInputBorder(),
       ),
     );
